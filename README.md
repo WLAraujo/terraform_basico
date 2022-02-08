@@ -1,3 +1,3 @@
-# TERRAFORM-GCP
+# TERRAFORM_BASICO
 
 Nesse repositório pretendo manter alguns códigos de Terraform desenvolvidos para as aulas de **Terraform Basics** e das **Terraform Tuedays** do canal [Ned in the Cloud](https://www.youtube.com/channel/UCDQ9L4eFHxSh0BM6z-SkZMw), mais precisamente daqueles vídeos que apresentam conceitos básicos do Terraform ou algo relacionado ao uso de Terraform + GCP. Os códigos aqui são praticamente inalterados daqueles encontrados originalmente no [Github](https://github.com/ned1313/terraform-tuesdays) do canal, somente possuindo alguns comentários feitos por mim para servirem de anotações. 
