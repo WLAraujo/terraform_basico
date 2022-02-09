@@ -1,3 +1,5 @@
+# A sequência de comandos nesse arquivo define variáveis locais e cria variáveis do terraform com base nelas
+
 # Linux/Mac
 export TF_VAR_cheese=jack
 export TF_VAR_protein=tofu
